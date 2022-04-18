@@ -1,5 +1,6 @@
 # sl2-assignment-4
 Garbage collection and first fit merge The program output should display the adjacency matrix for the above schema for each Root 1 and Root 2 separately.
+
 I. After the creation of the heap management schema, write a code and implement the following garbage collection methods to find the garbage nodes in the given heap.
 
 II.Reference Counting method
